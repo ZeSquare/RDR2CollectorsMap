@@ -1,4 +1,4 @@
-<img src="https://cdn.cardiacar.rest/red/logo-red.png">
+<img src="https://cdn.cardiacar.rest/red/logo-red-ng.png">
 # RDR2CollectorsMap
 Original Fork <a href="https://github.com/jeanropke/RDR2CollectorsMap">jeanropke/RDR2CollectorsMap</a>
 
